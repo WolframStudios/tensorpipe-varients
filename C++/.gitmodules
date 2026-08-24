@@ -1,0 +1,13 @@
+[submodule "third_party/pybind11"]
+	path = C++/third_party/pybind11
+	url = https://github.com/WolframStudios/pybind11-varients.git
+[submodule "third_party/libuv"]
+	path = C++/third_party/libuv
+	url = https://github.com/WolframStudios/libuv-varients.git
+	branch = v1.x
+[submodule "third_party/googletest"]
+	path = C++/third_party/googletest
+	url = https://github.com/WolframStudios/googletest-varients.git
+[submodule "third_party/libnop"]
+	path = C++/third_party/libnop
+	url = https://github.com/WolframStudios/libnop-varients.git
